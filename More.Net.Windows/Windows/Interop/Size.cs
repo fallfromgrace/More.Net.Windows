@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace EZMetrology.Windows.Interop
+namespace More.Net.Windows.Interop
 {
     /// <summary>
     /// Specifies the width and height of a rectangle.

@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using Microsoft.Win32.SafeHandles;
 
-namespace EZMetrology.Windows.Interop.Win32
+namespace More.Net.Windows.Interop.Win32
 {
     /// <summary>
     /// Provides access to NTFS junction points in .Net.

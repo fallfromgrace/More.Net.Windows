@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace EZMetrology.Windows.Interop.Com
+namespace More.Net.Windows.Interop.Com
 {
     /// <summary>
     /// 

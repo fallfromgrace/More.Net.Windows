@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 
-namespace EZMetrology.Windows.Interop
+namespace More.Net.Windows.Interop
 {
     /// <summary>
     /// 

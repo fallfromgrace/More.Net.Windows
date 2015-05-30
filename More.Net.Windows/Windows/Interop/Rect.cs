@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace EZMetrology.Windows.Interop
+namespace More.Net.Windows.Interop
 {
     /// <summary>
     /// Rect is a managed representation of the Win32 RECT structure.

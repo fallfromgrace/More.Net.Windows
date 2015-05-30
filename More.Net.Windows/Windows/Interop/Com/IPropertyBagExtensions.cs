@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EZMetrology.Windows.Interop.Com
+namespace More.Net.Windows.Interop.Com
 {
     /// <summary>
     /// 

@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Security;
 using EXCEPINFO = System.Runtime.InteropServices.ComTypes.EXCEPINFO;
 
-namespace EZMetrology.Windows.Interop.Com
+namespace More.Net.Windows.Interop.Com
 {
     /// <summary>
     /// 

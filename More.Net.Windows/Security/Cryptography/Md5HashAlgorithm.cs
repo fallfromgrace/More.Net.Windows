@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-namespace EZMetrology.Security.Cryptography
+namespace More.Net.Security.Cryptography
 {
     /// <summary>
     /// 

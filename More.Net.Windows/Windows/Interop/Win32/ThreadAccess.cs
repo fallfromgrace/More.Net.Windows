@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EZMetrology.Windows.Interop.Win32
+namespace More.Net.Windows.Interop.Win32
 {
     /// <summary>
     /// Set of flags that determine thread access level.

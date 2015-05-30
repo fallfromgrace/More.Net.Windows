@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Security;
 
-namespace EZMetrology.Windows.Interop.Com
+namespace More.Net.Windows.Interop.Com
 {
     /// <summary>
     /// Provides access to a bind context, which is an object that stores information about a 

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using log4net;
 
-namespace EZMetrology.Logging
+namespace More.Net.Logging
 {
     /// <summary>
     /// 

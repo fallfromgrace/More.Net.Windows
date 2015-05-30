@@ -5,7 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.ComponentModel;
 
-namespace EZMetrology.Windows.Interop.Win32
+namespace More.Net.Windows.Interop.Win32
 {
     /// <summary>
     /// Contains various .NET implementation of native Win32 API functions.

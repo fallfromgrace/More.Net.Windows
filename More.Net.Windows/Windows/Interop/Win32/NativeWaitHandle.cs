@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 using System.Reflection;
 using System.Diagnostics;
 
-namespace EZMetrology.Windows.Interop.Win32
+namespace More.Net.Windows.Interop.Win32
 {
     /// <summary>
     /// 

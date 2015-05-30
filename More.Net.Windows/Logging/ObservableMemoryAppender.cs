@@ -4,7 +4,7 @@ using System;
 using System.Reactive.Linq;
 using System.Reactive.Subjects;
 
-namespace EZMetrology.EZStudio.Logging
+namespace More.Net.EZStudio.Logging
 {
     /// <summary>
     /// 

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EZMetrology.Windows.Interop
+namespace More.Net.Windows.Interop
 {
     /// <summary>
     /// 
